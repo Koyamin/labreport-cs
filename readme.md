@@ -15,7 +15,7 @@
 \documentclass{labreport}
 ```
 
-## 使用方法
+## 设置方法
 
 本模版使用 Key-Value 方式来填写信息、设置字体。具体设置内容如下所示。
 
