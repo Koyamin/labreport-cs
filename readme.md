@@ -51,14 +51,14 @@
 
 ## 文档中使用的宏包
 
-- geometry,
-- amsmath,
-- amssymb,
-- unicode-math,
-- xcolor,
-- listings,
-- caption,
-- graphicx,
-- fancyhdr,
-- lastpage,
+- geometry
+- amsmath
+- amssymb
+- unicode-math
+- xcolor
+- listings
+- caption
+- graphicx
+- fancyhdr
+- lastpage
 - enumitem
