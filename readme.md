@@ -1,4 +1,4 @@
-# LabReport-ECNUCS
+# labreport-cs
 
 ## 目的
 
