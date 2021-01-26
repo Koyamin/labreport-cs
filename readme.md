@@ -15,6 +15,8 @@
 \documentclass{labreport}
 ```
 
+注意：使用本模版后只可以用 XeTeX 编译。
+
 ## 设置方法
 
 本模版使用 Key-Value 方式来填写信息、设置字体。具体设置内容如下所示。
