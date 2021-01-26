@@ -48,3 +48,17 @@
 
 - `fontEN        = lm | times | default, `，英语字体选项，选项意思依次为 Latin Modern，Times，以及默认（选择默认时为`times`）；
 - `fontMath      = lm | times | default,`，数学字体选项，选项意思依次为 Latin Modern，Times，以及默认（选择默认时为`lm`）。
+
+## 文档中使用的宏包
+
+- geometry,
+- amsmath,
+- amssymb,
+- unicode-math,
+- xcolor,
+- listings,
+- caption,
+- graphicx,
+- fancyhdr,
+- lastpage,
+- enumitem
