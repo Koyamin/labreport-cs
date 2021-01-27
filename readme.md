@@ -46,7 +46,7 @@
 - `date        = {<日期>},`，在花括号内填入日期；
 - `time        = {<课时数>},`，在花括号内填入课时数。
 
-### `font`设置
+### `style`设置
 
 - `fontEN        = lm | times | default, `，英语字体选项，选项意思依次为 Latin Modern，Times，以及默认（选择默认时为`times`）；
 - `fontMath      = lm | times | default,`，数学字体选项，选项意思依次为 Latin Modern，Times，以及默认（选择默认时为`lm`）。
