@@ -78,7 +78,8 @@
     date        = {(日期)}, 
     time        = {(课时数)},
   }
-
+\PassOptionsToClass
+  { mathrm=sym } { unicode-math },
 \RequirePackage
   {
     geometry,
