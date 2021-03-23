@@ -79,7 +79,7 @@
     time        = {(课时数)},
   }
 \PassOptionsToPackage
-  { mathrm=sym } { unicode-math },
+  { mathrm=sym } { unicode-math }
 \RequirePackage
   {
     geometry,
