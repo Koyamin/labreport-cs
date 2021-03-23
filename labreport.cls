@@ -78,7 +78,7 @@
     date        = {(日期)}, 
     time        = {(课时数)},
   }
-\PassOptionsToClass
+\PassOptionsToPackage
   { mathrm=sym } { unicode-math },
 \RequirePackage
   {
