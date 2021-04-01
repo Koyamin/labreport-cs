@@ -251,6 +251,12 @@
     breaklines      = true,
     showspaces      = false,
     showstringspaces= false,
+    keywordstyle    = \color{colorKeyword},
+    stringstyle     = \color{colorString},
+    commentstyle    = \color{colorComment},
+    emphstyle       = \color{colorEmph},
+    numberstyle     = \color{colorNumber},
+    tabsize         = 4,
   }
 \lstset
   {
