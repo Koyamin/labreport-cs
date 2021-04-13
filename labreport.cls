@@ -105,13 +105,13 @@
 \pagestyle{fancy}
   \fancyhead[L,R]   { }
   \fancyhead[C]     { \small \l__labreport_title_tl }
-  \fancyfoot[C]     { \small 第\ \thepage\ 页\quad 共\ \pageref*{LastPage}\ 页  }
+  \fancyfoot[C]     { \small 第\ \thepage\ 页\quad 共\ \pageref{LastPage}\ 页  }
   \fancyfoot[L,R]   { }
   \headheight   = 13 pt 
 \fancypagestyle{plain} 
   {
     \fancyhf        { }
-    \fancyfoot[C]   {\small 第\ \thepage\ 页\quad 共\ \pageref*{LastPage}\ 页 }
+    \fancyfoot[C]   {\small 第\ \thepage\ 页\quad 共\ \pageref{LastPage}\ 页 }
     \fancyfoot[L,R] { }
     \footskip = 30pt
     \renewcommand   { \headrulewidth } { 0 pt }
